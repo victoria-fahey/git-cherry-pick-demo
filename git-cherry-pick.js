@@ -5,3 +5,9 @@ function helloCherryPick () {
 }
 
 helloCherryPick()
+
+function someRandomWords () {
+    return console.log('Here is some more random stuff for demo')
+}
+
+someRandomWords()
